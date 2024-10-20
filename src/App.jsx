@@ -7,7 +7,7 @@ function App() {
 
   return (
     <>
-    <h1>rueact</h1>
+    <h1>React</h1>
     <Countries></Countries>
     </>
   )
