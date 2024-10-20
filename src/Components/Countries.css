@@ -3,3 +3,13 @@
     grid-template-columns: repeat(3, 1fr);
     gap: 10px;
 }
+.length{
+    display: flex;
+    justify-content: center;
+    font-size: 16px;
+}
+.flag-size{
+    width: 100px;
+    height: 100px;
+    padding: 20px;
+}
